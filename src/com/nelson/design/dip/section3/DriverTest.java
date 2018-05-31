@@ -1,13 +1,11 @@
 package com.nelson.design.dip.section3;
 
-import junit.framework.TestCase;
-
 /**
  * @author cbf4Life cbf4life@126.com
  * I'm glad to share my knowledge with you all.
  * 测试类
  */
-public class DriverTest extends TestCase {
+public class DriverTest /*extends TestCase */{
 //    Mockery context = new JUnit4Mockery();
 //
 //    @Test
