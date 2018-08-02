@@ -19,7 +19,7 @@
 - [x] 3. 抽象工厂模式 abstract factory 
 - [x] 4. 模板方法模式 template method 
 - [x] 5. 建造者模式 builder 
-- [ ] 6. 代理模式 proxy
+- [x] 6. 代理模式 proxy
 - [x] 7. 原型模式 prototype 
 - [ ] 8. 中介者模式 mediator
 - [x] 9. 命令模式 command 
