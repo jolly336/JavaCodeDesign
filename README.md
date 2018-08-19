@@ -25,7 +25,7 @@
 - [x] 9. 命令模式 command 
 - [x] 10. 责任链模式 chain of responsibility 
 - [x] 11. 装饰模式 decorator
-- [ ] 12. 策略模式 strategy
+- [x] 12. 策略模式 strategy
 - [x] 13. 适配器模式 adapter 
 - [ ] 14. 迭代器模式 iterator
 - [ ] 15. 组合模式 composite
