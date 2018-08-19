@@ -21,7 +21,7 @@
 - [x] 5. 建造者模式 builder 
 - [x] 6. 代理模式 proxy
 - [x] 7. 原型模式 prototype 
-- [ ] 8. 中介者模式 mediator
+- [x] 8. 中介者模式 mediator
 - [x] 9. 命令模式 command 
 - [x] 10. 责任链模式 chain of responsibility 
 - [x] 11. 装饰模式 decorator
