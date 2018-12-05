@@ -29,7 +29,7 @@
 - [x] 13. 适配器模式 adapter 
 - [ ] 14. 迭代器模式 iterator
 - [x] 15. 组合模式 composite
-- [ ] 16. 观察者模式 observer
+- [x] 16. 观察者模式 observer
 - [ ] 17. 门面模式 facade
 - [ ] 18. 备忘录模式 memento
 - [ ] 19. 访问者模式 visitor
