@@ -30,7 +30,7 @@
 - [ ] 14. 迭代器模式 iterator
 - [x] 15. 组合模式 composite
 - [x] 16. 观察者模式 observer
-- [ ] 17. 门面模式 facade
+- [x] 17. 门面模式 facade
 - [ ] 18. 备忘录模式 memento
 - [ ] 19. 访问者模式 visitor
 - [ ] 20. 状态模式 state
