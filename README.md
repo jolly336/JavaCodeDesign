@@ -1,7 +1,9 @@
 
+[TOC]
+
 > This is a sample project of java design pattern.Inside code comes from the book of [设计模式之禅](https://item.jd.com/11414555.html).
 
-## Table of Contents
+## Java 设计模式
 
 ### 设计原则
 
