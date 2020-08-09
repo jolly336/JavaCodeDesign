@@ -1,0 +1,1 @@
+策略模式 VS 桥梁模式 (strategy vs bridge)
