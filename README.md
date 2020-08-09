@@ -42,10 +42,10 @@
 
 ### 设计模式PK
 
-- [ ] 1. 创建类模式大PK factory vs builder
-- [ ] 2. 结构类模式大PK decorator vs adapter, proxy vs decorator
-- [ ] 3. 行为类模式大PK command vs strategy, observer vs chain, strategy vs state
-- [ ] 4. 跨战区PK command vs strategy, command vs bridge, wrapper
+- [x] 1. 创建类模式大PK(create) factory vs builder
+- [ ] 2. 结构类模式大PK(structure) decorator vs adapter, proxy vs decorator
+- [ ] 3. 行为类模式大PK(behavior) command vs strategy, observer vs chain, strategy vs state
+- [ ] 4. 跨战区PK(cross_zone) command vs strategy, command vs bridge, wrapper
 
 ### 混编模式
 
