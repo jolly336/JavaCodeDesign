@@ -6,6 +6,7 @@ package pattern.visitor.section7;
  */
 public class KungFuRole implements Role {
     //武功天子第一的角色
+    @Override
     public void accept(AbsActor actor) {
         actor.act(this);
     }

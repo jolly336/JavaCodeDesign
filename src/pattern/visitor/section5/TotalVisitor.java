@@ -18,16 +18,19 @@ public class TotalVisitor implements ITotalVisitor {
     //部门经理的工资总和
     private int managerTotalSalary = 0;
 
+    @Override
     public void totalSalary() {
         System.out.println("本公司的月工资总额是" + (this.commonTotalSalary + this.managerTotalSalary));
     }
 
     //访问普通员工，计算工资总额
+    @Override
     public void visit(CommonEmployee commonEmployee) {
         this.commonTotalSalary = this.commonTotalSalary + commonEmployee.getSalary() * COMMONEMPLOYEE_COEFFICIENT;
     }
 
     //访问部门经理，计算工资总额
+    @Override
     public void visit(Manager manager) {
         this.managerTotalSalary = this.managerTotalSalary + manager.getSalary() * MANAGER_COEFFICIENT;
     }

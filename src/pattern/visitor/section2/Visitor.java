@@ -7,11 +7,13 @@ package pattern.visitor.section2;
 public class Visitor implements IVisitor {
 
     //访问普通员工，打印出报表
+    @Override
     public void visit(CommonEmployee commonEmployee) {
         System.out.println(this.getCommonEmployee(commonEmployee));
     }
 
     //访问部门经理，打印出报表
+    @Override
     public void visit(Manager manager) {
         System.out.println(this.getManagerInfo(manager));
 

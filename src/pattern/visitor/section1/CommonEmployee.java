@@ -18,6 +18,7 @@ public class CommonEmployee extends Employee {
         this.job = job;
     }
 
+    @Override
     protected String getOtherInfo() {
         return "工作：" + this.job + "\t";
     }

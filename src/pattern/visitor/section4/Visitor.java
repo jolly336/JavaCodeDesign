@@ -18,6 +18,7 @@ public class Visitor implements IVisitor {
     private int managerTotalSalary = 0;
 
     //访问普通员工，打印出报表
+    @Override
     public void visit(CommonEmployee commonEmployee) {
         System.out.println(this.getCommonEmployee(commonEmployee));
         //计算普通员工的薪水总和
@@ -25,6 +26,7 @@ public class Visitor implements IVisitor {
     }
 
     //访问部门经理，打印出报表
+    @Override
     public void visit(Manager manager) {
         System.out.println(this.getManagerInfo(manager));
         //计算部门经理的工资总和
@@ -66,6 +68,7 @@ public class Visitor implements IVisitor {
     }
 
     //获得所有员工的工资总和
+    @Override
     public int getTotalSalary() {
         return this.commonTotalSalary + this.managerTotalSalary;
     }
