@@ -34,7 +34,7 @@
 - [x] 16. [观察者模式 observer](https://github.com/jolly336/JavaCodeDesign/blob/master/src/pattern/observer/REAME.md)
 - [x] 17. 门面模式 facade
 - [ ] 18. 备忘录模式 memento
-- [ ] 19. 访问者模式 visitor
+- [x] 19. 访问者模式 visitor
 - [x] 20. 状态模式 state
 - [x] 21. 解释器模式 interpreter
 - [x] 22. 享元模式 flyweight 
