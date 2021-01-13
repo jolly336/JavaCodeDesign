@@ -16,7 +16,7 @@
 
 ### 设计模式
 
-- [ ] 1. 单例模式 singleton
+- [x] 1. 单例模式 singleton
 - [x] 2. 工厂方法模式 simple factory 
 - [x] 3. 抽象工厂模式 abstract factory 
 - [x] 4. 模板方法模式 template method 
