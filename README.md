@@ -12,7 +12,7 @@
 - [x] 3. 依赖倒置原则 dip(Dependence Inversion Principle)
 - [x] 4. 接口隔离原则 isp(interface-segregation principles) 
 - [x] 5. 迪米特法则 lod(Least Knowledge Principle) 
-- [ ] 6. 开闭原则 ocp
+- [x] 6. 开闭原则 ocp
 
 ### 设计模式
 
