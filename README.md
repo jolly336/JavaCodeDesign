@@ -29,7 +29,7 @@
 - [x] 11. 装饰模式 decorator
 - [x] 12. 策略模式 strategy
 - [x] 13. 适配器模式 adapter 
-- [ ] 14. 迭代器模式 iterator
+- [x] 14. 迭代器模式 iterator
 - [x] 15. 组合模式 composite
 - [x] 16. [观察者模式 observer](https://github.com/jolly336/JavaCodeDesign/blob/master/src/pattern/observer/REAME.md)
 - [x] 17. 门面模式 facade
