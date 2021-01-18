@@ -5,7 +5,7 @@
 
 ## Java 设计模式
 
-### 设计原则
+### 设计原则 (principle)
 
 - [x] 1. 单一职责原则 srp(Single Responsibility Principle) 
 - [x] 2. 里氏替换原则 lsp(Liskov Substitution Principle)
@@ -14,7 +14,7 @@
 - [x] 5. 迪米特法则 lod(Least Knowledge Principle) 
 - [x] 6. 开闭原则 ocp
 
-### 设计模式
+### 设计模式 (pattern)
 
 - [x] 1. 单例模式 singleton
 - [x] 2. 工厂方法模式 simple factory 
@@ -40,14 +40,14 @@
 - [x] 22. 享元模式 flyweight 
 - [x] 23. 桥梁模式 bridge 
 
-### 设计模式PK
+### 设计模式PK (pk)
 
 - [x] 1. [创建类模式大PK(create) factory vs builder](https://github.com/jolly336/JavaCodeDesign/blob/master/src/pk/create/REAME.md)
 - [x] 2. [结构类模式大PK(structure) decorator vs adapter, proxy vs decorator](https://github.com/jolly336/JavaCodeDesign/blob/master/src/pk/structure/REAME.md) 
 - [x] 3. [行为类模式大PK(behavior) command vs strategy, observer vs chain, strategy vs state](https://github.com/jolly336/JavaCodeDesign/blob/master/src/pk/behavior/REAME.md)
 - [x] 4. [跨战区PK(cross_zone) command vs strategy, command vs bridge, wrapper](https://github.com/jolly336/JavaCodeDesign/blob/master/src/pk/cross_zone/REAME.md)
 
-### 混编模式
+### 混编模式 (mix)
 
 - [x] 1. 命令模式+责任链模式 command chain 
 - [x] 2. 工厂方法模式+策略模式 factory strategy 
