@@ -53,7 +53,7 @@
 - [x] 2. 工厂方法模式+策略模式 factory strategy 
 - [x] 3. 观察者模式+中介者模式 observer mediator 
 - [x] 4. 规格模式 specification
-- [ ] 5. MVC框架 mvc
+- [x] 5. MVC框架 mvc
 
 ## Usage
 
