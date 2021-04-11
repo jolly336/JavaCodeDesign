@@ -52,7 +52,7 @@
 - [x] 1. 命令模式+责任链模式 command chain 
 - [x] 2. 工厂方法模式+策略模式 factory strategy 
 - [x] 3. 观察者模式+中介者模式 observer mediator 
-- [ ] 4. 规格模式 specification
+- [x] 4. 规格模式 specification
 - [ ] 5. MVC框架 mvc
 
 ## Usage
