@@ -5,6 +5,12 @@
 
 ## Java 设计模式
 
+包含如下内容：
+
+* 6 大原则
+* 23 + 1 种设计模式
+* 设计模式 PK、设计模式混编、设计模式最佳实践 MVC
+
 ### 设计原则 (principle)
 
 - [x] 1. 单一职责原则 srp(Single Responsibility Principle) 
